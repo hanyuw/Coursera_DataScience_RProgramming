@@ -1,3 +1,7 @@
+## Light Chen
+## July.25
+## Coursera R programming Assignment 2 Caching the Inverse of a Matrix
+
 cacheSolve <- function(x, ...) {
         s <- x$getsolve()
         if(!is.null(s)) {

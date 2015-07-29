@@ -1,3 +1,7 @@
+## Light Chen
+## July.25
+## Coursera R programming Assignment 2 Caching the Inverse of a Matrix
+
 makeCacheMatrix <- function(x = numeric()) {
         s <- NULL
         set <- function(y) {
